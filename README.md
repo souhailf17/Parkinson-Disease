@@ -10,6 +10,7 @@ Generating Spectrograms: Produced spectroscopic representations to enhance frequ
 ![299750701-ba6562cb-5e16-475b-a892-c8a228d65f8d](https://github.com/souhailf17/Parkinson-Disease/assets/80196273/06d7a608-bbc3-494c-acae-21ab5f30f772)
 
 🔊 Noise Reduction via Median Filtering: Implemented median filtering to diminish noise in audio signals, thereby improving signal quality.
+
 ![299750982-2398ed90-241f-4e1d-84fd-462520d08376](https://github.com/souhailf17/Parkinson-Disease/assets/80196273/5f092506-500f-451d-8354-711e42eec5e9)
 
 🎚️ Extracting Multiple Audio Features: Utilized feature extraction techniques such as MFCC, Chroma, Spectral Centroid, Zero Crossing Rate, Spectral Rolloff, Tonnetz, Spectral Contrast, Pitch, and Jitter.
